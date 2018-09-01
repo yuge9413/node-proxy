@@ -1,0 +1,23 @@
+{
+  "name": "node-proxy",
+  "version": "1.0.0",
+  "description": "node proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuge9413/node-proxy.git"
+  },
+  "keywords": [
+    "node",
+    "proxy"
+  ],
+  "author": "yuge9413",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuge9413/node-proxy/issues"
+  },
+  "homepage": "https://github.com/yuge9413/node-proxy#readme"
+}
