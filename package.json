@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yuge9413/node-proxy/issues"
   },
-  "homepage": "https://github.com/yuge9413/node-proxy#readme"
+  "homepage": "https://github.com/yuge9413/node-proxy#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
 }
